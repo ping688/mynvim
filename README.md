@@ -1,2 +1,2 @@
-# mynvim
-mynvim
+# nvim-lua
+myself nvim config
